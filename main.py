@@ -1,3 +1,7 @@
+#Author Feng
+#23th Feb,2024 in Manila 
+
+
 import numpy as np
 import pytesseract
 from pytesseract import Output
