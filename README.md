@@ -1,5 +1,5 @@
 # pdf2img-img2txt
-
+## CPU环境下速度很快
 一、pytesseract简介
 tesseract原意为：宇宙魔方;超立方体;超正方体;四维超正方体;四次元立方体
 
